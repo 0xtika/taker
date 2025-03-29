@@ -1653,3 +1653,15 @@
 3/29/2025 | 4:12:58 PM | INFO | Trying to check user miner status... 
 3/29/2025 | 4:12:59 PM | INFO | Last mining time: 3/28/2025, 4:14:36 PM
 3/29/2025 | 4:12:59 PM | WARN | Mining already started, next mining time is: 3/29/2025, 4:14:36 PM
+3/29/2025 | 8:11:32 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/29/2025 | 8:11:32 PM | INFO | Start process for wallet 0x6065DA7b6ea55140cfFc3B4718303A4e41D53b82 
+3/29/2025 | 8:11:33 PM | INFO | Trying To Login for wallet: 0x6065DA7b6ea55140cfFc3B4718303A4e41D53b82 
+3/29/2025 | 8:11:34 PM | INFO | Login successful... 
+3/29/2025 | 8:11:34 PM | INFO | Trying to check user info... 
+3/29/2025 | 8:11:34 PM | INFO | User ID: 103430959 | Twitter: @ratikacd | Total Points: 912000 
+3/29/2025 | 8:11:34 PM | INFO | Trying to check user miner status... 
+3/29/2025 | 8:11:35 PM | INFO | Last mining time: 3/28/2025, 4:14:36 PM
+3/29/2025 | 8:11:35 PM | INFO | Trying to start Mining for wallet: 0x6065DA7b6ea55140cfFc3B4718303A4e41D53b82 
+3/29/2025 | 8:11:35 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/29/2025 | 8:11:35 PM | INFO | Trying to activate mining on-chain for wallet: 0x6065DA7b6ea55140cfFc3B4718303A4e41D53b82 
+3/29/2025 | 8:11:45 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x9aa8ead773f5603fbbd60c11013786950c89bb9c640b606066b48922c406aabb 
