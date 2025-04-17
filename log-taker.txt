@@ -2723,3 +2723,16 @@
 4/17/2025 | 12:23:09 PM | INFO | Trying to check user miner status... 
 4/17/2025 | 12:23:10 PM | INFO | Last mining time: 4/16/2025, 12:23:30 PM
 4/17/2025 | 12:23:10 PM | WARN | Mining already started, next mining time is: 4/17/2025, 12:23:30 PM
+4/17/2025 | 4:15:04 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/17/2025 | 4:15:04 PM | INFO | Start process for wallet 0x6065DA7b6ea55140cfFc3B4718303A4e41D53b82 
+4/17/2025 | 4:15:04 PM | INFO | Trying To Login for wallet: 0x6065DA7b6ea55140cfFc3B4718303A4e41D53b82 
+4/17/2025 | 4:15:05 PM | INFO | Login successful... 
+4/17/2025 | 4:15:05 PM | INFO | Trying to check user info... 
+4/17/2025 | 4:15:06 PM | INFO | User ID: 103430959 | Twitter: @ratikacd | Total Points: 1320000 
+4/17/2025 | 4:15:06 PM | INFO | Trying to check user miner status... 
+4/17/2025 | 4:15:09 PM | INFO | Last mining time: 4/16/2025, 12:23:30 PM
+4/17/2025 | 4:15:09 PM | INFO | Trying to start Mining for wallet: 0x6065DA7b6ea55140cfFc3B4718303A4e41D53b82 
+4/17/2025 | 4:15:20 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/17/2025 | 4:15:20 PM | INFO | Trying to activate mining on-chain for wallet: 0x6065DA7b6ea55140cfFc3B4718303A4e41D53b82 
+4/17/2025 | 4:17:56 PM | ERROR | Activate Mining Error: {"errno":-110,"code":"ETIMEDOUT","syscall":"connect","address":"101.47.19.33","port":443}
+4/17/2025 | 4:17:56 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
