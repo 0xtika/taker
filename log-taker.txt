@@ -5217,3 +5217,12 @@
 5/31/2025 | 1:06:42 AM | WARN | Retrying... (0 attempts left) 
 5/31/2025 | 1:09:01 AM | ERROR | Failed to get nonce after retries: connect ETIMEDOUT 101.47.181.18:443
 5/31/2025 | 1:09:01 AM | ERROR | Failed to retrieve nonce for wallet: 0x6065DA7b6ea55140cfFc3B4718303A4e41D53b82 
+5/31/2025 | 4:16:02 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/31/2025 | 4:16:02 AM | INFO | Start process for wallet 0x6065DA7b6ea55140cfFc3B4718303A4e41D53b82 
+5/31/2025 | 4:16:03 AM | INFO | Trying To Login for wallet: 0x6065DA7b6ea55140cfFc3B4718303A4e41D53b82 
+5/31/2025 | 4:16:04 AM | INFO | Login successful... 
+5/31/2025 | 4:16:04 AM | INFO | Trying to check user info... 
+5/31/2025 | 4:16:04 AM | INFO | User ID: 103430959 | Twitter: @ratikacd | Total Points: 2232000 
+5/31/2025 | 4:16:04 AM | INFO | Trying to check user miner status... 
+5/31/2025 | 4:16:05 AM | INFO | Last mining time: 5/30/2025, 4:15:33 PM
+5/31/2025 | 4:16:05 AM | WARN | Mining already started, next mining time is: 5/31/2025, 4:15:33 PM
